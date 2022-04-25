@@ -5,6 +5,7 @@
 # Windows image file caches
  Thumbs.db
  ehthumbs.db
+.*~
 
 # Folder config file
  Desktop.ini
@@ -163,3 +164,14 @@ nb-configuration.xml
 ##############################
 .vscode/
 *.code-workspace
+
+##############################
+## Yeoman
+##############################
+node_modules/
+bower_components/
+*.log
+
+build/
+dist/
+>>>>>>> 560eea8191e9aff1ef9802d8c02e51903697f037

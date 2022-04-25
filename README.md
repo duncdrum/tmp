@@ -1,5 +1,3 @@
-# tmp
-
 [![License][license-img]][license-url]
 [![GitHub release][release-img]][release-url]
 ![exist-db CI](https://github.com/djbpitt/tmp/workflows/exist-db%20CI/badge.svg)
