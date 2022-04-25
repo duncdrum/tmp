@@ -19,3 +19,10 @@ declare
     function tests:tautology() {
         1 = 1
 };
+
+declare
+    %test:name('two-is-two')
+    %test:assertTrue
+    function tests:tautology() {
+        2 = 2
+};
