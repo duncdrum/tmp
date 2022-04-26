@@ -23,6 +23,6 @@ declare
 declare
     %test:name('two-is-two')
     %test:assertTrue
-    function tests:tautology() {
+    function tests:tautology2() {
         2 = 2
 };
