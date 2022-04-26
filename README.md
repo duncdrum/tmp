@@ -8,7 +8,7 @@
 
 ## Requirements
 
-*   [exist-db](http://exist-db.org/exist/apps/homepage/index.html) version: `5.x` or greater
+*   [exist-db](http://exist-db.org/exist/apps/homepage/index.html) version: `6.x` or greater
 
 *   [ant](http://ant.apache.org) version: `1.10.7` \(for building from source\)
 
