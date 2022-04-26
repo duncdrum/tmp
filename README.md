@@ -4,7 +4,7 @@
 
 <img src="icon.png" align="left" width="25%"/>
 
-My amazing tmp application
+# My amazing tmp application
 
 ## Requirements
 
