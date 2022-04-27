@@ -26,3 +26,10 @@ declare
     function tests:tautology2() {
         2 = 2
 };
+
+declare
+    %test:name('three-is-three')
+    %test:assertTrue
+    function tests:tautology3() {
+        3 = 3
+};
